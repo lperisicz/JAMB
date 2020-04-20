@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#b2ebf2</color>
+    <color name="colorPrimaryDark">#80deea</color>
+    <color name="colorAccent">#00acc1</color>
+
+    <color name="textColorDark">#100006</color>
+
+    <color name="colorSum">#80deea</color>
+    <color name="colorLocked">#b2ebf2</color>
+    <color name="colorPending">#e0f7fa</color>
+
+</resources>
