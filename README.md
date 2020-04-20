@@ -1,0 +1,9 @@
+# JAMB - LV1 - Zadatak 1
+Android JAMB aplikacija
+
+Provjera vecine slucajeva se obavlja uz pomoc regex-a.
+Screenshots
+
+![](https://cdn.discordapp.com/attachments/616706919129939969/701921950682841178/93665933_2781211565311175_6694013998934786048_n.jpg)
+![](https://cdn.discordapp.com/attachments/616706919129939969/701921947268939796/93659794_2517883411806498_8181533272879136768_n.jpg)
+![](https://cdn.discordapp.com/attachments/616706919129939969/701921954277359646/93806169_637502990168794_6412811451999715328_n.jpg)
